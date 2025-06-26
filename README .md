@@ -1,4 +1,4 @@
-﻿Super Sales Dashboard Analysis 
+Business sales Dashboard Analysis 
 
 Overview :
  This project aims to analyze sales data to uncover trends and patterns in sales performance, customer demographics, and product popularity. Using SQL for data processing and Power BI for visualization, the project provides a comprehensive view of sales metrics.
